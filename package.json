@@ -1,0 +1,24 @@
+{
+  "name": "KOA",
+  "version": "1.0.0",
+  "description": "学习koa2搭建movie网站",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YBFACC/KOA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YBFACC/KOA/issues"
+  },
+  "homepage": "https://github.com/YBFACC/KOA#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
